@@ -1,0 +1,41 @@
+sununnucauu unrna v1. 103
+
+esse etiam Δ A Al'ev' ΑΒΓ. ergo uterque triangulus
+ΑΒΔ, ΑΔΓ triangulo toti ΑΒΓ similis est.
+
+iam dico, triangulosABA, ΑΔΓ etiam inter se
+similes esse.
+
+nam quoniam Ι[,ΒΔΑ----ΑΔΓ (recti enim), et
+demonstratum est, [ΒΑΔ angulo ud Γ posito aequa-
+lem esse, etiam qui relinquitur angulus ad Β positus,
+angulo ΔΑΓ aequalis crit [1‚ 32]. isque trianguli
+ΑΒΔ,ΑΔΓ aequianguli sunt. est igitur ΒΔ 2 ΔΑ
+-- ΑΔ : ΔΓ = BA r ΑΓ [prop. IV]; nam ΒΔ in
+triangulo ΑΒΔ sub ΒΑΔ subtendit ct ΔΑ in trian-
+guloAAF sub angulo ad Γ posito subtendit angulo
+ΒΑΔ aequali, et ΑΔ in triangulo ΑΒΔ sub angulo
+ad Β posito subtendit‚ ΔΓ autem in triangulo A AF
+sub ΔΑΓ angulo ad Β posito aequali, ,et prae-
+terea BA,Ar sub rectis angulis subtendunt. itaque
+Δ ΑΒΔ ω ΑΔΓ [def. 1].
+
+Ergo si in triangulo rectangulo ab angulo recto
+ad basim perpendicularis ducitur, trianguli ad per-
+pendicularem positi similes erunt et toti et inter se.
+
+Corollarium.
+
+Hinc manifestum est, si in triangulo rectangulo
+ab angulo recto ad basim perpendicularis dueatur,
+
+m. rec. 14. ὑποτείνουσαν] -v eras. F. 15. τῇ] corr. ex
+τῆς m. rec. P3 seq. ras. 1 litt. V. 16. πρὸς τὴν ΑΓ] in
+ras. F. ὑποτείνουσα F. 20. ἐστιν F. 23. ἐν] om. p.
+
+25. τμημάτων] cm. p. 26. ἔστι Β, comp. p. ὅπερ ἔδει
+δεῖξαι] cm. BFp. καὶ ἔτι - p. 104, 2: ἐστιν] postea ins. m.
+lFinras3mg.m.2V.
+
+ 
+

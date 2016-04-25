@@ -1,0 +1,36 @@
+· nnnunuroauu niara vn. 219
+
+Sint quattuor numeri proportionales A, Β, Γ, Δ,
+
+ita ut eit A ε Β == F: A. dieo, esee etiam permutatim
+
+A ε Γ -- Β 2 A.
+A nam quoniam est A: Β = F: A, quae
+’ pars uel partes eat A numeri Β, eadem pars
+i , uel partes erit etiam Γ numeri A [def. 20].
+
+- A itaque permutatim quae pere uel portes
+Β “ est A numeri Γ, eadem pars uel portes
+
+Γ est etiam Β numeri A [prop. X]. orgo
+“ A: P= Β : A [def. 20]; quod erat de-
+monstrandum.
+
+XIV.
+
+si quotlibet numeri dati eunt et alii iis numero
+aequales bini simul coniuncti et in eadem proportione,
+etiem ex eequo in eadem proportione eruut.
+
+Sint quotlibet numeri A, Β, Γ et alii iis numero
+aequales bini simul ooniuneti in eedem proportione
+
+A, E, Ζ, ita ut sitA213==A2E et B:P=E:z.
+dieo, esse etiam ex aequo A ε Γ -- A : Z.
+nem quoniam est A : Β = A : E, permutatim erit
+A r A = Β :E [prop. ΧΙΙΙ]. rursus quoniam eat
+B: Γ = E: Z,
+permutatim erit B:E == Γ :Z [id.]. sed B:E ε A: A.
+
+ 
+

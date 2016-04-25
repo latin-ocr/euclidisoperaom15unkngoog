@@ -1,0 +1,41 @@
+uuuuuuuouuu moue IX. 393
+
+XXII.
+
+si quotlibet numeri imperes componuntur, et mul-
+titudo eorum par est, totus per erit.
+
+Oomponantur enim quotlibet numeri impares nu·
+mero pares AB, ΒΓ, ΓΛ, ΔΕ. dico, totum ΑΕ pa·
+rem esse.
+
+A B Γ Δ Ε
+l—-l——l—-l—-l
+nam quoniam singuli numeri AB, ΒΓ, ΓΔ, ΔΕ
+impares sunt, unitate a singulis subtracta, qui relin-
+quuntur, singuli pares erunt [VII def. 7]. quare etiem
+numerus exiis compositus par erit [prop. XXI]. ue-
+rum etiem multitudo unitatum per est. ergo etiam
+totus ΑΕ par est [id.]; quod eret demonstrandumss
+
+XXIII.
+
+Si quotlibet numeri imperes componuntur, et mul-
+titudo eorum imper est, etiem totus impar erit.
+Oomponentur enim quotlibet numeri imperes, quo-
+rum multitudo imper sit, AB, ΒΓ, ΓΔ. dieo, etiam
+totum ΑΔ imparem esse.
+ι--ι--ι--ι-1
+Α Β Γ Ε Δ Ι
+subtrabatur asA unitas ΔΕ. itaque qui relin-
+quitur, ΓΕ per est [VII def. 7]. uerum etiam ΓΑ
+‚. per est [prop. XXII]. quere etiam totus ΑΕ per est
+
+[prop. XXI} et ΔΕ unitas est. ergo ΑΔ impar est
+[Vll def. 7]; quod eret demonstrandum.
+
+qomp, Ἐς ἔστι Vq. ἔστι] seq. ras, 1 litt. V, ἔστιν Β. 24.
+αρα] om. q. οπερ ἔδει δεῖξαι] om. Buq.
+
+ 
+
